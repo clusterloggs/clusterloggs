@@ -64,4 +64,4 @@ I’m always open to **collaboration, mentorship, or exchanging ideas**.
 - [Kaggle](https://www.kaggle.com/azeezakintonde)  
 - [Email](mailto:Azkintonde@gmail.com)  
 
---> Check out the pinned repositories above — I’d be happy to walk you through any in detail!
+--> Check out the pinned repositories above, I’d be happy to walk you through any in detail!
