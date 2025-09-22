@@ -1,80 +1,79 @@
-👋 Hi, I’m Azeez Akintonde
+# 👋 Hi, I’m Azeez Akintonde  
 
-Data Scientist | AI/ML Engineer | Cloud Enthusiast (GCP & AWS)
+**Data Scientist | AI/ML Engineer | Cloud Enthusiast (GCP & AWS)**  
 
-I love solving business problems with data-driven insights and building scalable AI/ML solutions.
+I solve business problems with **data-driven insights** and build **scalable AI/ML solutions** for real-world impact.  
 
-🚀 Tech Stack
-
-Languages & Tools I use
+---
 
 ## 🚀 Tech Stack  
 
 **Languages & Tools I use**  
 
-<p align="left">  
-  <!-- Languages -->  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
+### 🖥️ Programming  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>  
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>  
 
-  <!-- ML -->  
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>  
+### 🤖 ML & AI  
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>  
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>  
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>  
 
-  <!-- Cloud -->  
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>  
+### ☁️ Cloud & Data  
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>  
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/>  
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white"/>  
 
-  <!-- Data -->  
-  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
+### 📊 Data Science Tools  
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>  
 
-  <!-- DevOps & Tools -->  
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white"/>  
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
-</p>
+### 🛠 DevOps & Utilities  
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white"/>  
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  
 
-📂 Featured Projects
+---
 
+## 📂 Featured Projects  
 
 | Project | What I Did / What I Learned |
 |---|---|
-| **[Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction](https://github.com/clusterloggs/Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction)** | Built a full ML pipeline for credit risk: data ingestion, feature engineering, model training / evaluation. Learned about scaling, reproducibility, and model versioning. :contentReference[oaicite:11]{index=11} |
-| **[Healthcare-Data-Pipeline-GCS-BigQuery](https://github.com/clusterloggs/Healthcare-Data-Pipeline-GCS-BigQuery)** | Designed ETL/data pipeline moving health-data from GCS to BigQuery, prepared clean datasets for downstream analysis. Improved skills in cloud data flow and scalable data prep. :contentReference[oaicite:12]{index=12} |
-| **[Boston-MEDV-House-Prediction](https://github.com/clusterloggs/Boston-MEDV-House-Prediction)** | Regression project to predict housing prices. Worked on feature selection, model evaluation, and interpreting model outputs. :contentReference[oaicite:13]{index=13} |
-| **[Taxi-Fare-Prediction-with-BigQuery-ML](https://github.com/clusterloggs/Taxi-Fare-Prediction-with-BigQuery-ML)** | Used BigQuery ML to build regression models on large dataset, optimized queries and evaluated performance at scale. :contentReference[oaicite:14]{index=14} |
-| **[Customer-Churn](https://github.github.com/clusterloggs/Customer-Churn)** | Analyzed triggers of churn, built classification model, visualized results. Strengthened skills in business impact and presentation of findings. :contentReference[oaicite:15]{index=15} |
-| **[Feature-Engineering-with-Keras](https://github.com/clusterloggs/feature-engineering-with-keras)** | Hands-on work with feature preprocessing and engineering for different data types using Keras / TensorFlow. Better understanding of how features affect model performance. :contentReference[oaicite:16]{index=16} |
+| **[Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction](https://github.com/clusterloggs/Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction)** <br/> *MLOps | Credit Risk* | Built an ML pipeline for credit risk: ingestion, feature engineering, model training & evaluation. Learned about scaling, reproducibility, and model versioning. |
+| **[Healthcare-Data-Pipeline-GCS-BigQuery](https://github.com/clusterloggs/Healthcare-Data-Pipeline-GCS-BigQuery)** <br/> *ETL | Cloud Data Engineering* | Designed ETL pipeline moving health-data from GCS → BigQuery, cleaned datasets for downstream analysis. Gained hands-on skills in cloud data flow. |
+| **[Boston-MEDV-House-Prediction](https://github.com/clusterloggs/Boston-MEDV-House-Prediction)** <br/> *Regression | Feature Engineering* | Predicted housing prices with regression models. Focused on feature selection, model evaluation, and interpreting results. |
+| **[Taxi-Fare-Prediction-with-BigQuery-ML](https://github.com/clusterloggs/Taxi-Fare-Prediction-with-BigQuery-ML)** <br/> *BigQuery ML | Large-scale Regression* | Built regression models on large dataset with BigQuery ML, optimized queries, and evaluated model performance at scale. |
+| **[Customer-Churn](https://github.com/clusterloggs/Customer-Churn)** <br/> *Classification | Business Impact* | Analyzed churn drivers, built classification model, visualized results. Strengthened business communication & insights delivery. |
+| **[Feature-Engineering-with-Keras](https://github.com/clusterloggs/feature-engineering-with-keras)** <br/> *Deep Learning | Feature Preprocessing* | Explored feature preprocessing and engineering for multiple data types using Keras/TensorFlow. Learned how features affect model performance. |
 
 ---
 
-## 🛠 What I’m Working On Next
+## 🛠 What I’m Working On Next  
 
-- Improve model deployment / continuous integration / continuous delivery (CI/CD) for ML projects  
-- More end-to-end projects using unstructured data (text, maybe images)  
-- Deepen cloud skills (especially AWS / GCP) and build more projects that include both data pipelines + deployment  
+- Improving **model deployment / CI/CD** for ML projects  
+- More **end-to-end projects** with unstructured data (text, images)  
+- Deepening **cloud skills (AWS/GCP)** by combining pipelines + deployment  
 
 ---
 
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=clusterloggs&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clusterloggs&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/> </p>
+## 📈 GitHub Stats  
+
+<p align="center">  
+  <img src="https://github-readme-stats.vercel.app/api?username=clusterloggs&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clusterloggs&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/>  
+</p>  
 
 ---
 
 ## 🤝 Let’s Connect  
 
-Always open to collaboration, mentorship, or just swapping ideas.
+I’m always open to **collaboration, mentorship, or exchanging ideas**.  
 
 - [LinkedIn](https://www.linkedin.com/in/azeezakintonde)  
 - [Kaggle](https://www.kaggle.com/azeezakintonde)  
-- [Email](mailto:youremail@example.com)  
+- [Email](mailto:Azkintonde@gmail.com)  
 
----
-
-⭐️ The pinned repositories above represent some of my best work — feel free to explore them, and I’d be happy to walk you through any in detail.
+⭐️ Check out the pinned repositories above — I’d be happy to walk you through any in detail!
