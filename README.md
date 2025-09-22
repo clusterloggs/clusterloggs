@@ -29,14 +29,13 @@ I solve business problems with **data-driven insights** and build **scalable AI/
 
 ## 📂 Featured Projects  
 
-| Project | What I Did / What I Learned |
-|---|---|
-| **[Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction](https://github.com/clusterloggs/Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction)** <br/> *MLOps | Credit Risk* | Built an ML pipeline for credit risk: ingestion, feature engineering, model training & evaluation. Learned about scaling, reproducibility, and model versioning. |
-| **[Healthcare-Data-Pipeline-GCS-BigQuery](https://github.com/clusterloggs/Healthcare-Data-Pipeline-GCS-BigQuery)** <br/> *ETL | Cloud Data Engineering* | Designed ETL pipeline moving health-data from GCS → BigQuery, cleaned datasets for downstream analysis. Gained hands-on skills in cloud data flow. |
-| **[Boston-MEDV-House-Prediction](https://github.com/clusterloggs/Boston-MEDV-House-Prediction)** <br/> *Regression | Feature Engineering* | Predicted housing prices with regression models. Focused on feature selection, model evaluation, and interpreting results. |
-| **[Taxi-Fare-Prediction-with-BigQuery-ML](https://github.com/clusterloggs/Taxi-Fare-Prediction-with-BigQuery-ML)** <br/> *BigQuery ML | Large-scale Regression* | Built regression models on large dataset with BigQuery ML, optimized queries, and evaluated model performance at scale. |
-| **[Customer-Churn](https://github.com/clusterloggs/Customer-Churn)** <br/> *Classification | Business Impact* | Analyzed churn drivers, built classification model, visualized results. Strengthened business communication & insights delivery. |
-| **[Feature-Engineering-with-Keras](https://github.com/clusterloggs/feature-engineering-with-keras)** <br/> *Deep Learning | Feature Preprocessing* | Explored feature preprocessing and engineering for multiple data types using Keras/TensorFlow. Learned how features affect model performance. |
+| Project | Description |
+|---------|-------------|
+| **[Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction](https://github.com/clusterloggs/Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction)** | Built a full ML pipeline for credit risk: data ingestion, feature engineering, model training / evaluation. Integrated best practices in reproducibility and pipeline scaling. |
+| **[Taxi-Fare-Prediction-with-BigQuery-ML](https://github.com/clusterloggs/Taxi-Fare-Prediction-with-BigQuery-ML)** | Used **BigQuery ML** to build regression models on a large dataset, optimized queries, and evaluated performance at scale. Strengthened cloud-native ML skills. |
+| **[Boston-MEDV-House-Prediction](https://github.com/clusterloggs/Boston-MEDV-House-Prediction)** | Regression project to predict housing prices. Worked on feature selection, model evaluation, and interpreting model outputs. |
+| **[Customer-Churn](https://github.com/clusterloggs/Customer-Churn)** | Analyzed triggers of churn, built a classification model, and visualized results. Strengthened skills in explaining business impact and presenting findings. |
+| **[Feature-Engineering-with-Keras](https://github.com/clusterloggs/feature-engineering-with-keras)** | Hands-on work with feature preprocessing and engineering for different data types using **Keras / TensorFlow**. Improved understanding of how features affect model performance. |
 
 ---
 
