@@ -1,6 +1,6 @@
 # Hi, I’m Azeez Akintonde 👋  
 
-🚀 Data Analyst → Aspiring ML / MLOps Engineer  
+🚀 Data Scientist and AI/ML / MLOps Engineer  
 📍 Lagos, Nigeria  
 I build data-driven solutions, production-ready ML pipelines, and dashboards that help decision-makers.  
 
