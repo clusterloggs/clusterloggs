@@ -1,50 +1,35 @@
-# Hi, I’m Azeez Akintonde 👋  
+👋 Hi, I’m Azeez Akintonde
 
-🚀 Data Scientist and AI/ML / MLOps Engineer  
-📍 Lagos, Nigeria  
-I build data-driven solutions, production-ready ML pipelines, and dashboards that help decision-makers.  
+🎯 Data Analyst | Aspiring ML Engineer | Cloud Enthusiast (GCP & AWS)
 
----
+I love solving business problems with data-driven insights and building scalable AI/ML solutions.
 
-## 🔹 Skills & Tech Stack  
-- **Languages:** Python, R  
-- **Data Handling & SQL / BigQuery** for data engineering and preprocessing  
-- **ML & AI:** Scikit-learn, TensorFlow, Keras — classification, regression, feature engineering  
-- **Cloud / Pipelines:** BigQuery, GCS, dbt, scalable pipelines (e.g. “Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction”) :contentReference[oaicite:10]{index=10}  
-- **Visualization / BI:** Power BI, plotting libraries, dashboards  
-- **Other Tools:** Git, Jupyter Notebooks, APIs, data ingestion  
+🚀 Tech Stack
 
----
+Languages & Tools I use
 
-## 📂 Featured Projects
+<p align="left"> <!-- Languages --> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> <!-- ML --> <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> <!-- Cloud --> <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/> <!-- Data --> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-bigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/> <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"/> </p>
+📂 Featured Projects
 
-| Project | What I Did / What I Learned |
-|---|---|
-| **[Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction](https://github.com/clusterloggs/Scalable-MLOps-Pipeline-for-Credit-Risk-Prediction)** | Built a full ML pipeline for credit risk: data ingestion, feature engineering, model training / evaluation. Learned about scaling, reproducibility, and model versioning. |
-| **[Healthcare-Data-Pipeline-GCS-BigQuery](https://github.com/clusterloggs/Healthcare-Data-Pipeline-GCS-BigQuery)** | Designed ETL/data pipeline moving health-data from GCS to BigQuery, prepared clean datasets for downstream analysis. Improved skills in cloud data flow and scalable data prep. |
-| **[Boston-MEDV-House-Prediction](https://github.com/clusterloggs/Boston-MEDV-House-Prediction)** | Regression project to predict housing prices. Worked on feature selection, model evaluation, and interpreting model outputs.  |
-| **[Taxi-Fare-Prediction-with-BigQuery-ML](https://github.com/clusterloggs/Taxi-Fare-Prediction-with-BigQuery-ML)** | Used BigQuery ML to build regression models on large dataset, optimized queries and evaluated performance at scale. |
-| **[Customer-Churn](https://github.github.com/clusterloggs/Customer-Churn)** | Analyzed triggers of churn, built classification model, visualized results. Strengthened skills in business impact and presentation of findings. : |
-| **[Feature-Engineering-with-Keras](https://github.com/clusterloggs/feature-engineering-with-keras)** | Hands-on work with feature preprocessing and engineering for different data types using Keras / TensorFlow. Better understanding of how features affect model performance. |
+🏡 Housing Price Prediction
 
----
+Regression project predicting housing prices using feature selection and model evaluation.
 
-## 🛠 What I’m Working On Next
+📊 Customer Segmentation
 
-- Improve model deployment / continuous integration / continuous delivery (CI/CD) for ML projects  
-- More end-to-end projects using unstructured data (text, maybe images)  
-- Deepen cloud skills (especially AWS / GCP) and build more projects that include both data pipelines + deployment  
+Applied clustering algorithms to identify customer groups for marketing strategy.
 
----
+⚡ BigQuery Data Pipeline
 
-## 🤝 Let’s Connect  
+Built and optimized ETL workflows with Apache Beam and Google Cloud Dataflow.
 
-Always open to collaboration, mentorship, or just swapping ideas.
+📈 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=clusterloggs&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clusterloggs&layout=compact&theme=tokyonight" alt="Top Languages" height="150"/> </p>
+📫 Let’s Connect
 
-- [LinkedIn](https://www.linkedin.com/in/azeezakintonde)  
-- [Kaggle](https://www.kaggle.com/azeezakintonde)  
-- [Email](Azkintonde@gmail.com)  
+LinkedIn
 
----
+Portfolio Website
+ (if you create one later)
 
-⭐️ The pinned repositories above represent some of my best work — feel free to explore them, and I’d be happy to walk you through any in detail.
+Email
