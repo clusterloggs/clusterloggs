@@ -1,6 +1,6 @@
 # Hi, I’m Azeez Akintonde  
 
-**Data Scientist | AI/ML Engineer | Cloud Enthusiast (GCP & AWS)**  
+**Data Scientist | AI/ML Engineer | Cloud Enthusiast (GCP, AWS & Heroku)**  
 
 I solve business problems with **data-driven insights** and build **scalable AI/ML solutions** for real-world impact.  
 
