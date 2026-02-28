@@ -1,4 +1,4 @@
-# Hi, I'm Azeez Akintonde 👋
+# Hi, I'm Azeez Akintonde
 
 **Data Scientist | AI/ML Engineer | MLOps Specialist | Cloud Architect**
 
@@ -6,7 +6,7 @@ I transform complex business challenges into data-driven solutions by architecti
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Core Competencies & Tools**
 
@@ -27,7 +27,7 @@ I transform complex business challenges into data-driven solutions by architecti
 
 ---
 
-## 📊 Featured Projects
+## Featured Projects
 
 | Project | Overview |
 |---------|----------|
@@ -39,7 +39,7 @@ I transform complex business challenges into data-driven solutions by architecti
 
 ---
 
-## 🚀 What I'm Working On Next
+## What I'm Working On Next
 
 - **Advanced MLOps & CI/CD**: Implementing end-to-end deployment pipelines with automated testing, monitoring, and rollback strategies
 - **Unstructured Data Projects**: Exploring NLP and computer vision applications (text classification, image recognition, sentiment analysis)
@@ -48,7 +48,7 @@ I transform complex business challenges into data-driven solutions by architecti
 
 ---
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=clusterloggs&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>  
@@ -57,12 +57,12 @@ I transform complex business challenges into data-driven solutions by architecti
 
 ---
 
-## 💬 Let's Connect
+## Let's Connect
 
 I'm always interested in discussing data science, MLOps, cloud architecture, or exciting collaboration opportunities.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/azeezakintonde) - Professional insights and updates
-- 📈 [Kaggle](https://www.kaggle.com/azeezakintonde) - Competition projects and datasets  
-- 📧 [Email](mailto:Azkintonde@gmail.com) - Direct inquiries
+- [LinkedIn](https://www.linkedin.com/in/azeezakintonde) - Professional insights and updates
+- [Kaggle](https://www.kaggle.com/azeezakintonde) - Competition projects and datasets  
+- [Email](mailto:Azkintonde@gmail.com) - Direct inquiries
 
-**👉 Check out my pinned repositories above—I'd be happy to discuss any project in detail or collaborate on challenges!**
+** Check out my pinned repositories above—I'd be happy to discuss any project in detail or collaborate on challenges!**
