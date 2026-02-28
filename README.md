@@ -63,6 +63,6 @@ I'm always interested in discussing data science, MLOps, cloud architecture, or 
 
 - [LinkedIn](https://www.linkedin.com/in/azeezakintonde) - Professional insights and updates
 - [Kaggle](https://www.kaggle.com/azeezakintonde) - Competition projects and datasets  
-- [Email](mailto:Azkintonde@gmail.com) - Direct inquiries
+- 📧 [Email](mailto:Azkintonde@gmail.com) - Direct inquiries
 
-** Check out my pinned repositories above—I'd be happy to discuss any project in detail or collaborate on challenges!**
+**👉 Check out my pinned repositories above—I'd be happy to discuss any project in detail or collaborate on challenges!**
