@@ -2,7 +2,7 @@
 
 **Data Scientist | AI/ML Engineer | MLOps Specialist | Cloud Architect**
 
-I transform complex business challenges into data-driven solutions by architecting and deploying scalable AI/ML systems on cloud platforms (GCP, AWS). Passionate about building reproducible ML pipelines that create measurable business impact.
+I transform complex business challenges into data-driven solutions by architecting and deploying scalable AI/ML systems on cloud platforms (GCP, Azure, AWS). Passionate about building reproducible ML pipelines that create measurable business impact.
 
 ---
 
@@ -43,7 +43,7 @@ I transform complex business challenges into data-driven solutions by architecti
 
 - **Advanced MLOps & CI/CD**: Implementing end-to-end deployment pipelines with automated testing, monitoring, and rollback strategies
 - **Unstructured Data Projects**: Exploring NLP and computer vision applications (text classification, image recognition, sentiment analysis)
-- **Multi-Cloud Expertise**: Building cross-platform solutions leveraging AWS, GCP, and modern Kubernetes orchestration
+- **Multi-Cloud Expertise**: Building cross-platform solutions leveraging Azure, AWS, GCP, and modern Kubernetes orchestration
 - **Real-time ML Systems**: Developing streaming data pipelines and serving models at scale with low latency
 
 ---
@@ -63,6 +63,6 @@ I'm always interested in discussing data science, MLOps, cloud architecture, or 
 
 - [LinkedIn](https://www.linkedin.com/in/azeezakintonde) - Professional insights and updates
 - [Kaggle](https://www.kaggle.com/azeezakintonde) - Competition projects and datasets  
-- 📧 [Email](mailto:Azkintonde@gmail.com) - Direct inquiries
+- [Email](mailto:Azkintonde@gmail.com) - Direct inquiries
 
-**👉 Check out my pinned repositories above—I'd be happy to discuss any project in detail or collaborate on challenges!**
+**--> Check out my pinned repositories above—I'd be happy to discuss any project in detail or collaborate on challenges!**
